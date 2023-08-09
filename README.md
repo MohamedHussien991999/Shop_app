@@ -1,5 +1,10 @@
-# Shoppy (shopping app)
-##   A) Tools 
+# Shoppy (Online Shopping app) 
+
+## A) Video That descibtion  App
+
+https://github.com/MohamedHussien991999/Shop_app/assets/93053169/c51f3ef5-6b61-45a6-9191-074c8e4d4692
+
+##   B) Tools 
 
 1)State management using bloc(cubit)
 
@@ -9,10 +14,12 @@
 
 4)bloc provider
 
-## B) Video That descibtion  App
-
-https://github.com/MohamedHussien991999/Shop_app/assets/93053169/c51f3ef5-6b61-45a6-9191-074c8e4d4692
-
-
-
+## C) Features
+• On Boarding Screen
+• Login /Register Screen
+• Products Screen
+• Categories Screen
+•Search Screen
+•Favorites Screen
+•Setting Screen
 
