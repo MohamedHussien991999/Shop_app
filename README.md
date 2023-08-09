@@ -1,5 +1,5 @@
 # Shoppy (shopping app)
-##    Tools 
+##   A) Tools 
 
 1)State management using bloc(cubit)
 
@@ -9,7 +9,7 @@
 
 4)bloc provider
 
-## Video That descibtion  App
+## B) Video That descibtion  App
 
 
 
